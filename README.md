@@ -42,16 +42,7 @@ University of Nebraska–Lincoln
   <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux"/>
 </p>
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apalapramanik&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apalapramanik&layout=compact&theme=dark" />
-</p>
 
 ---
 
