@@ -40,6 +40,9 @@ vision, sensing, and learning to improve reliability in highly dynamic environme
 ---
 
 ## 📄 Selected Publications
+- **Look Once, Beam Twice: Camera-Primed Real-Time Double-Directional mmWave Beam Management for Vehicular Connectivity**
+  *IEEE SECON 2026*
+
 - **Perception-based Runtime Monitoring and Verification for Human–Robot Construction Systems**  
   *ACM/IEEE MEMOCODE 2024*
 
