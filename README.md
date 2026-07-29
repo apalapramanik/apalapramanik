@@ -21,6 +21,9 @@ My research lies at the intersection of **millimeter-wave (mmWave) wireless comm
 I focus on designing **robust, adaptive beam management frameworks** that integrate
 vision, sensing, and learning to improve reliability in highly dynamic environments.
 
+More recently, I have also started exploring **O-RAN architecture**, extending my interest in
+network intelligence beyond the radio link toward the broader RAN stack.
+
 ---
 
 ## 🧠 Research Interests
